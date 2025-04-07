@@ -3,7 +3,7 @@ Discord Token Checker 2024 | Premium+ | API | Node.js
 
 # FEATURES
 This software doing automatic delivery for customers.
--| Log System
+-| Log System\n
 -| Code Verify System
 -| Admin Alert System
 -| DM Delivery System
